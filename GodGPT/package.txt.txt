@@ -1,6 +1,0 @@
-Unable to locate package build-essential
-Unable to locate package libgtk-3-dev
-Unable to locate package libboost-all-dev
-Unable to locate package freeglut3-dev
-Unable to locate package cmake
-Unable to locate package libopenblas-dev
