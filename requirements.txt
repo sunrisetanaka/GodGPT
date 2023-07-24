@@ -6,7 +6,6 @@ numpy
 pyopenjtalk
 scipy
 librosa
-i2clcda
 ctranslate2
 faster_whisper
 streamlit
