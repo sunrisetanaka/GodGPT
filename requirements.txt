@@ -10,3 +10,4 @@ ctranslate2
 faster_whisper
 pygame
 streamlit
+IPython
