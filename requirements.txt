@@ -11,3 +11,5 @@ faster_whisper
 pygame
 streamlit
 IPython
+pyaudio
+sentencepiece
